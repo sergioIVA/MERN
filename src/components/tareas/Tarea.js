@@ -34,7 +34,7 @@ const Tarea = ({tarea}) => {
                 <button
                       type="button"
                       className="btn btn-secundario"
-                >Editar</button>
+                >Eliminar</button>
             </div>
 
         </li>

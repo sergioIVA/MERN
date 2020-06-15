@@ -32,7 +32,7 @@ const ListadoTareas = () => {
                 type="button"
                 className="btn btn-eliminar"
               >
-               Eliminar Poryecto &times;
+               Eliminar Proyecto &times;
             </button>
            
         </Fragment>
